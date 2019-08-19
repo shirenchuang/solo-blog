@@ -15,7 +15,6 @@ Eleven's Blog
 * [【Nacos源码系列】Nacos 快速开始](http://blog.xiao2go.com/articles/2019/08/15/1565848723257.html)
 * [【Mybatis】如何继承Mybatis中的Mapper.xml文件](http://blog.xiao2go.com/articles/2019/08/15/1565846912291.html)
 * [【微信开发】上传用户语音 并用ffmpeg转码并分享](http://blog.xiao2go.com/articles/2019/08/15/1565839188597.html)
-* [RedisDelayQueue 延迟队列接入方法](http://blog.xiao2go.com/articles/2019/08/14/1565797998305.html)
 * [基于Redis实现DelayQueue延迟队列设计方案](http://blog.xiao2go.com/articles/2019/08/14/1565796937508.html)
 * [今天建立Eleven的个人博客站点啦](http://blog.xiao2go.com/articles/2019/08/14/1565794967222.html)
 
