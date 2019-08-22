@@ -10,14 +10,15 @@ Eleven's Blog
 
 ### 最新
 
-* [【Nacos源码 二】Nacos中的事件发布与订阅--观察者模式](http://blog.xiao2go.com/articles/2019/08/21/1566358386014.html)
-* [【Nacos源码 一】阅读源码第一步,本地启动Nacos](http://blog.xiao2go.com/articles/2019/08/20/1566289182119.html)
-* [【Nacos源码分析】 启动Nacos配置管理模块项目](http://blog.xiao2go.com/articles/2019/08/15/1565866731149.html)
-* [Java -D设置系统属性讲解](http://blog.xiao2go.com/articles/2019/08/15/1565861655572.html)
-* [【Mybatis】如何继承Mybatis中的Mapper.xml文件](http://blog.xiao2go.com/articles/2019/08/15/1565846912291.html)
-* [【微信开发】上传用户语音 并用ffmpeg转码并分享](http://blog.xiao2go.com/articles/2019/08/15/1565839188597.html)
-* [基于Redis实现DelayQueue延迟队列设计方案](http://blog.xiao2go.com/articles/2019/08/14/1565796937508.html)
-* [今天建立Eleven的个人博客站点啦](http://blog.xiao2go.com/articles/2019/08/14/1565794967222.html)
+* [【Nacos源码 三】TaskManager 任务管理的使用](http://blog.shiyi.online/articles/2019/08/22/1566435405649.html)
+* [【Nacos源码 二】Nacos中的事件发布与订阅--观察者模式](http://blog.shiyi.online/articles/2019/08/21/1566358386014.html)
+* [【Nacos源码 一】阅读源码第一步,本地启动Nacos](http://blog.shiyi.online/articles/2019/08/20/1566289182119.html)
+* [【Nacos源码分析】 启动Nacos配置管理模块项目](http://blog.shiyi.online/articles/2019/08/15/1565866731149.html)
+* [Java -D设置系统属性讲解](http://blog.shiyi.online/articles/2019/08/15/1565861655572.html)
+* [【Mybatis】如何继承Mybatis中的Mapper.xml文件](http://blog.shiyi.online/articles/2019/08/15/1565846912291.html)
+* [【微信开发】上传用户语音 并用ffmpeg转码并分享](http://blog.shiyi.online/articles/2019/08/15/1565839188597.html)
+* [基于Redis实现DelayQueue延迟队列设计方案](http://blog.shiyi.online/articles/2019/08/14/1565796937508.html)
+* [今天建立Eleven的个人博客站点啦](http://blog.shiyi.online/articles/2019/08/14/1565794967222.html)
 
 
 
