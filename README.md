@@ -2,7 +2,7 @@
 进击的老码农
 </h2>
 
-<h4 align="center">永远不要停下前进的脚步</h4>
+<h4 align="center">公众号: 进击的老码农《源码系列》《每日一题》《视频教学》</h4>
 <p align="center"><a title="进击的老码农" target="_blank" href="https://github.com/shirenchuang/solo-blog"><img src="https://img.shields.io/github/last-commit/shirenchuang/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/shirenchuang/solo-blog"><img src="https://img.shields.io/github/repo-size/shirenchuang/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,6 +10,10 @@
 
 ### 最新
 
+* [【Nacos源码之配置管理 七】增删改配置数据之后如何通知集群中的其他机器](http://blog.shiyi.online/articles/2019/09/06/1567749212631.html)
+* [【Nacos源码之配置管理 六】集群模式下服务器之间是如何互相感知的](http://blog.shiyi.online/articles/2019/09/06/1567748776255.html)
+* [【Nacos源码之配置管理 五】为什么把配置文件Dump到磁盘中](http://blog.shiyi.online/articles/2019/09/06/1567748611660.html)
+* [【Nacos源码之配置管理 四】DumpService如何将配置文件全部Dump到磁盘中](http://blog.shiyi.online/articles/2019/09/06/1567738669800.html)
 * [【Nacos源码 三】TaskManager 任务管理的使用](http://blog.shiyi.online/articles/2019/08/22/1566435405649.html)
 * [【Nacos源码 二】Nacos中的事件发布与订阅--观察者模式](http://blog.shiyi.online/articles/2019/08/21/1566358386014.html)
 * [【Nacos源码 一】阅读源码第一步,本地启动Nacos](http://blog.shiyi.online/articles/2019/08/20/1566289182119.html)
