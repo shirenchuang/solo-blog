@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [【Nacos源码之配置管理 十】客户端长轮询监听服务端变更数据](http://blog.shiyi.online/articles/2019/09/16/1568633835134.html)
+* [【Nacos源码之配置管理 九】客户端获取配置数据的流程](http://blog.shiyi.online/articles/2019/09/16/1568632848305.html)
+* [【Nacos源码之配置管理 八】客户端怎么获取服务端集群列表](http://blog.shiyi.online/articles/2019/09/16/1568632475864.html)
 * [Alfred 修改内置Terminal为iTerm2](http://blog.shiyi.online/articles/2019/09/09/1567998287907.html)
 * [【Nacos源码之配置管理 七】增删改配置数据之后如何通知集群中的其他机器](http://blog.shiyi.online/articles/2019/09/06/1567749212631.html)
 * [【Nacos源码之配置管理 六】集群模式下服务器之间是如何互相感知的](http://blog.shiyi.online/articles/2019/09/06/1567748776255.html)
