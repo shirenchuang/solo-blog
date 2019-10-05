@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://blog.shiyi.online/my-github-repos)
 * [【Nacos源码之配置管理 十】客户端长轮询监听服务端变更数据](http://blog.shiyi.online/articles/2019/09/16/1568633835134.html)
 * [【Nacos源码之配置管理 九】客户端获取配置数据的流程](http://blog.shiyi.online/articles/2019/09/16/1568632848305.html)
 * [【Nacos源码之配置管理 八】客户端怎么获取服务端集群列表](http://blog.shiyi.online/articles/2019/09/16/1568632475864.html)
